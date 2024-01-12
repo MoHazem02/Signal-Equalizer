@@ -37,7 +37,7 @@ Welcome to Signal Equalizer, a Python desktop application for signal processing 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Omar-Khaled-19/Signal-Equalizer.git
+   git clone https://github.com/MoHazem02/Signal-Equalizer.git
    ```
 
 2. **Install dependencies:**
